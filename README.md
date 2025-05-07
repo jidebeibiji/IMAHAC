@@ -1,2 +1,2 @@
 # IMAHAC
-个人博客
+The real - time UAV decision - making comparison videos of MAAC and our method IMAHAC
